@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1050236827247",
+    "project_id": "phoneauthkotlin-dc957",
+    "storage_bucket": "phoneauthkotlin-dc957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050236827247:android:2a96805bb1339f23597f9a",
+        "android_client_info": {
+          "package_name": "com.example.phone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX652P6M7lwtf97S-VE2T2lrmznr01HLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050236827247:android:bef362938f009262597f9a",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX652P6M7lwtf97S-VE2T2lrmznr01HLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050236827247:android:b05405643a6c5e61597f9a",
+        "android_client_info": {
+          "package_name": "com.example.video_calling_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX652P6M7lwtf97S-VE2T2lrmznr01HLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
